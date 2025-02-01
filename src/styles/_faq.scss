@@ -38,6 +38,10 @@
                     padding: 0 24px;
                     transition: height, .5s ease;
 
+                    &--link {
+                        color: #fff;
+                    }
+
                     &__item { 
                         list-style-type: disc;
                         padding-left: 40px;
